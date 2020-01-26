@@ -35,11 +35,28 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 - Firebase https://firebase.google.com/docs
 - AWS https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do
 - Docker https://docs.docker.com/
-- Kubernets https://kubernetes.io/docs/home/
+- Kubernetes https://kubernetes.io/docs/home/
+
+## UX & UI
+
+- Sketch https://www.sketch.com/docs/
+- Figma https://www.figma.com/best-practices/
 
 ## Other Libraries
 
 - Styled Components https://styled-components.com/docs
+- SASS https://sass-lang.com/documentation
 - Draft https://draftjs.org/docs/getting-started
 - TypeScript https://www.typescriptlang.org/docs/home.html
 - Socket.io https://socket.io/docs/
+- Formik https://jaredpalmer.com/formik/docs/overview
+- Yup https://github.com/jquense/yup
+
+## Want to learn
+
+- Electron https://www.electronjs.org/docs
+- Expo https://docs.expo.io/versions/latest/
+- DENO https://deno.land/
+- Rust https://www.rust-lang.org/learn
+- Python https://docs.python.org/3/
+
