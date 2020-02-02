@@ -1,6 +1,12 @@
 # knowledge-base
 Knowledge Base for Frontend Frameworks, Languages and Libraries
 
+## JavaScript
+- Immer https://immerjs.github.io/immer/docs/introduction
+- Lodash https://lodash.com/
+- TypeScript https://www.typescriptlang.org/docs/home.html
+- Draft https://draftjs.org/docs/getting-started
+
 ## React
 
 - React https://reactjs.org/docs/getting-started.html
@@ -46,11 +52,11 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 
 - Styled Components https://styled-components.com/docs
 - SASS https://sass-lang.com/documentation
-- Draft https://draftjs.org/docs/getting-started
-- TypeScript https://www.typescriptlang.org/docs/home.html
 - Socket.io https://socket.io/docs/
 - Formik https://jaredpalmer.com/formik/docs/overview
 - Yup https://github.com/jquense/yup
+- Readme Syntax https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+- 
 
 ## Want to learn
 
