@@ -14,6 +14,9 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 - Next (SSR) https://nextjs.org/docs/getting-started
 - Gatsby https://www.gatsbyjs.org/docs/
 
+- Draft https://draftjs.org/docs/getting-started
+- Beautiful Drag and Drop https://github.com/atlassian/react-beautiful-dnd
+
 ## GraphQL
 
 - GraphQL https://graphql.org/learn/
