@@ -28,6 +28,11 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 - Nest https://docs.nestjs.com/
 - Express https://expressjs.com/en/guide/routing.html
 
+## DevOps
+
+- Azure DevOps https://docs.microsoft.com/en-us/azure/?product=featured
+- App Center https://docs.microsoft.com/en-us/appcenter/
+
 ## Testing
 
 - Cypress https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
