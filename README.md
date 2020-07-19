@@ -13,7 +13,8 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 - React Native https://facebook.github.io/react-native/docs/getting-started
 - Next (SSR) https://nextjs.org/docs/getting-started
 - Gatsby https://www.gatsbyjs.org/docs/
-
+- Expo https://docs.expo.io/
+- React Navigation https://reactnavigation.org/docs/getting-started/
 - Draft https://draftjs.org/docs/getting-started
 - Beautiful Drag and Drop https://github.com/atlassian/react-beautiful-dnd
 
@@ -69,7 +70,6 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 ## Want to learn
 
 - Electron https://www.electronjs.org/docs
-- Expo https://docs.expo.io/versions/latest/
 - DENO https://deno.land/
 - Rust https://www.rust-lang.org/learn
 - Python https://docs.python.org/3/
