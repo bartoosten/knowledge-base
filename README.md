@@ -33,6 +33,8 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 
 - Azure DevOps https://docs.microsoft.com/en-us/azure/?product=featured
 - App Center https://docs.microsoft.com/en-us/appcenter/
+- AppStoreConnect https://appstoreconnect.apple.com/login
+- Play Store Google https://play.google.com/apps/publish
 
 ## Testing
 
