@@ -22,6 +22,7 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 
 - GraphQL https://graphql.org/learn/
 - Prisma https://www.prisma.io/docs
+- GraphQL yoga https://github.com/prisma-labs/graphql-yoga
 
 ## Backend for Frontend (BFF)
 
