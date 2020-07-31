@@ -24,6 +24,12 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 - Prisma https://www.prisma.io/docs
 - GraphQL yoga https://github.com/prisma-labs/graphql-yoga
 
+## Firebase
+- Console https://console.firebase.google.com/
+- Documentation https://firebase.google.com/docs?authuser=0
+- Guides https://firebase.google.com/docs/guides?authuser=0
+- References https://firebase.google.com/docs/reference?authuser=0
+
 ## Backend for Frontend (BFF)
 
 - Node https://nodejs.org/en/docs/
