@@ -24,6 +24,9 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 - Prisma https://www.prisma.io/docs
 - GraphQL yoga https://github.com/prisma-labs/graphql-yoga
 
+## Expo
+- Commands https://docs.expo.io/workflow/expo-cli/
+
 ## Firebase
 - Console https://console.firebase.google.com/
 - Documentation https://firebase.google.com/docs?authuser=0
