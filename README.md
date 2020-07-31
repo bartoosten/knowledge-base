@@ -32,6 +32,7 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 - Documentation https://firebase.google.com/docs?authuser=0
 - Guides https://firebase.google.com/docs/guides?authuser=0
 - References https://firebase.google.com/docs/reference?authuser=0
+- Expo generic use https://docs.expo.io/guides/using-firebase/
 
 ## Backend for Frontend (BFF)
 
