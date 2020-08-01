@@ -79,7 +79,12 @@ Knowledge Base for Frontend Frameworks, Languages and Libraries
 - Formik https://jaredpalmer.com/formik/docs/overview
 - Yup https://github.com/jquense/yup
 - Readme Syntax https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+- Readme Setup https://www.makeareadme.com/
 - Phaser 3 https://photonstorm.github.io/phaser3-docs/index.html
+
+## Documenting
+- Readme Syntax https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+- Readme Setup https://www.makeareadme.com/
 
 ## Want to learn
 
